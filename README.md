@@ -1,2 +1,2 @@
 # simple-php-app
-Simple PHP app used with Elastic Beankstalk demo
+Simple PHP app used to Vistula University
